@@ -9,7 +9,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
   domain="dev-hg8zed6i4nqrkifr.us.auth0.com"
   clientId="hyXcPuHcv2OlGqE9ojTTFfm5mhxEzbMP"
   authorizationParams={{
-    redirect_uri: "https://homyz-agr381oal-vasundras-projects.vercel.app"
+    redirect_uri: "https://homyz-three-tau.vercel.app"
   }}
   audience="https://dev-hg8zed6i4nqrkifr.us.auth0.com/api/v2/"
   scope="openid profile email"
