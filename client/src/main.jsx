@@ -9,7 +9,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
   domain="dev-hg8zed6i4nqrkifr.us.auth0.com"
   clientId="hyXcPuHcv2OlGqE9ojTTFfm5mhxEzbMP"
   authorizationParams={{
-    redirect_uri: process.env.BACKEND_URL
+    redirect_uri: "https://homyz-4ice.onrender.com"
   }}
   audience="http://localhost:8000"
   scope="openid profile email"
