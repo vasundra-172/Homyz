@@ -9,7 +9,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
   domain="dev-hg8zed6i4nqrkifr.us.auth0.com"
   clientId="hyXcPuHcv2OlGqE9ojTTFfm5mhxEzbMP"
   authorizationParams={{
-    redirect_uri: "http://localhost:5173"
+    redirect_uri: "https://homyz-kappa.vercel.app"
   }}
   audience="http://localhost:8000"
   scope="openid profile email"
