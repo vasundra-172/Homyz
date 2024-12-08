@@ -23,4 +23,5 @@ This is a residence rental website for guest, visitors or tourists to stay in ro
 - JWT
 - MongoDB
 - Vercel
+
 check it out here- [https://homyz-three-tau.vercel.app/](url)
