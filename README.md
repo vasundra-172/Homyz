@@ -11,7 +11,7 @@ This is a residence rental website for guest, visitors or tourists to stay in ro
 ## Other Enhancements
 - Integrated react-toastify for notifications, PuffLoader for loading animations, and react-countup for dynamic stats.
 - Utilized lodash for description truncation and mantine/dates for residency bookings.
-## Tech Stack Used
+### Tech Stack Used
 - React.js
 - Swiper.js
 - Mantine
